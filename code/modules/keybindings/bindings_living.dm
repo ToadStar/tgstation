@@ -4,8 +4,4 @@
 			resist()
 			return
 
-<<<<<<< HEAD
 	return ..()
-=======
-	return ..()
->>>>>>> parent of 070bb5e69c... Port Custom hotkeys from TGMC (#47003)
